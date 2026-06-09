@@ -1,6 +1,6 @@
 # Emergency Vehicle Identification & Traffic Light System
 
-Proyek *Computer Vision* berbasis web menggunakan **Streamlit** dan **TensorFlow/Keras** untuk mendeteksi kendaraan darurat (Ambulans/Pemadam Kebakaran) secara otomatis guna mengontrol prioritas lampu lalu lintas.
+Projek *Computer Vision* berbasis web menggunakan **Streamlit** dan **TensorFlow dan Keras** untuk mendeteksi kendaraan darurat, khususnya ambulans secara otomatis guna mengontrol prioritas lampu lalu lintas.
 
 ---
 
@@ -14,6 +14,6 @@ Proyek *Computer Vision* berbasis web menggunakan **Streamlit** dan **TensorFlow
 ## Cara Menjalankan Proyek
 
 ### 1. Persiapan Environment
-Pastikan Anda sudah mengunduh proyek ini dan masuk ke direktori utama, lalu install *library* yang dibutuhkan:
+Pastikan kamu sudah mengunduh proyek ini dan masuk ke direktori utama, lalu install *library* yang dibutuhkan:
 ```bash
 pip install streamlit opencv-python tensorflow numpy Pillow
